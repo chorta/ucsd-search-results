@@ -94,6 +94,7 @@ span.gs-spacer {
     color: #484949;
     font-weight: bold;
     font-size: 35px;
+    margin: 20px 0;
 }
 
 .col-md-12 {
@@ -118,8 +119,6 @@ ul.horizontal-list {
     padding: 0;
 }
 
-li {}
-
 .cp li {
     background-color: #E5ECF9;
     display: inline-block;
@@ -140,4 +139,14 @@ li {}
 
 p#co {
     float: right;
+}
+
+p#sk {
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+
+span.mobile-results {
+    color: #484949;
 }
