@@ -80,7 +80,7 @@ span.mobile-results {
 }
 
 .gsc-tabhInactive a {
-    color: #777777 !important;
+    color: #376791 !important;
     text-decoration: none;
     padding: 0 8px !important;
     float: left;
@@ -149,4 +149,12 @@ p#sk {
 
 span.mobile-results {
     color: #484949;
+}
+
+.results h3 {
+    margin: 15px 0;
+}
+
+.gsc-tabhInactive a:hover {
+    text-decoration: underline;
 }
