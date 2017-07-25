@@ -1,0 +1,43 @@
+#wthr-widget {
+    line-height: 1.1em;
+    min-height: 115px;
+    font-weight: 400;
+    background-color: #61C1FF;
+    color: #fff;
+}
+
+#wthr-widget h3 {
+    color: #fff;
+    font-weight: 300;
+    margin: 0 0 5px;
+    padding: 8px;
+    font-size: 28px;
+}
+
+.srf_box {
+	display: none;
+}
+
+.ws-data {
+    font-size: 50px;
+    line-height: 1.1em;
+    margin: 0;
+    display: inline;
+    max-width: 20%;
+}
+
+.ws-icon {
+    float: left;
+    margin: 0;
+    padding-right: 23px;
+    max-width: 63px;
+}
+
+#full-w {
+    float: right;
+    font-size: 9px;
+    color: #fff;
+    bottom: 0;
+    position: relative;
+    margin: 95px 15px 0 0;
+}
