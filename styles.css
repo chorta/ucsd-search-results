@@ -137,6 +137,7 @@ ul.horizontal-list {
 
 p#co {
     float: right;
+    padding: 0 10px;
 }
 
 p#sk {
